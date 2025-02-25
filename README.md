@@ -3,7 +3,7 @@
 
 **👀 I’m interested in...**  
 - Native Android (Kotlin, Java) & iOS (Swift) development  
-- Cross-platform mobile apps with Flutter & React Native  
+- Cross-platform mobile apps with Flutter & React Native   
 - UI/UX design & mobile app performance optimization  
 - Firebase, REST APIs & GraphQL integration  
 - Mobile security & data encryption  
