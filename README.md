@@ -1,23 +1,23 @@
-**👋 Hi, I’m Muhammad Ahmad**  
-🚀 **Mobile App Developer | Android & iOS | Flutter & React Native Enthusiast**  
+**👋 Hi, I’m Wahaj A**  
+🚀 **Principal Data Engineer | Big Data & Cloud Enthusiast**  
 
 **👀 I’m interested in...**  
-- Native Android (Kotlin, Java) & iOS (Swift) development  
-- Cross-platform mobile apps with Flutter & React Native   
-- UI/UX design & mobile app performance optimization  
-- Firebase, REST APIs & GraphQL integration  
-- Mobile security & data encryption  
+- Building scalable data pipelines & ETL processes  
+- Big Data technologies (Apache Spark, Hadoop, Kafka)  
+- Cloud Data Engineering (AWS, GCP, Azure)  
+- Data Warehousing (Snowflake, Redshift, BigQuery)  
+- Real-time Data Processing & Streaming Analytics  
 
 **🌱 I’m currently learning...**  
-- Advanced Flutter animations & state management  
-- SwiftUI & Jetpack Compose for modern UI development  
-- AI/ML integration in mobile applications  
-- Cloud-native mobile architectures  
+- Advanced Data Lake & Warehouse Architectures  
+- ML & AI Integration in Data Engineering  
+- DataOps & CI/CD for Data Pipelines  
+- Query Performance Optimization & Data Storage Efficiency  
 
 **💞️ I’m looking to collaborate on...**  
-- Scalable & high-performance mobile applications  
-- Open-source mobile development projects  
-- Optimizing mobile apps for speed & efficiency    
-
+- Scalable and high-performance data processing solutions  
+- Open-source projects in data engineering & analytics  
+- Cloud-native data pipeline automation
+  
 **⚡ Fun fact:**  
-I optimize mobile apps so well that even low-battery mode becomes unnecessary! 📱⚡🚀  
+I optimize data pipelines so well, even petabytes feel lightweight!
